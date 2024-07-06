@@ -1,0 +1,175 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 1232.6510504075229,
+        "y": 278.87943554689139
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 58.397541160937465,
+            "y": 52.671230455132445
+          },
+          "nodeIndex": "Agentes",
+          "nodeLineageTag": "d44015a1-8b74-4b78-aa18-d90ede62750d",
+          "size": {
+            "height": 209.63508092421807,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 294.26373266299447,
+            "y": 278.87579236719807
+          },
+          "nodeIndex": "Empleados",
+          "nodeLineageTag": "ab2b8365-4b10-420d-9906-03a5f54bac88",
+          "size": {
+            "height": 513.02217918671442,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 342.621121331915,
+            "y": 0
+          },
+          "nodeIndex": "Etnicidad",
+          "nodeLineageTag": "a5198bdc-aa91-4225-b848-ce8c34b03917",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 578.48849238135676,
+            "y": 215.53667053200013
+          },
+          "nodeIndex": "GrupoEdades",
+          "nodeLineageTag": "604fa746-5665-4f2e-9d8e-eedf713810c6",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 289.30284460292876
+          },
+          "nodeIndex": "Separación",
+          "nodeLineageTag": "41616ef5-2c1a-4773-be86-ac9f393c4a92",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 655.85970686919984,
+            "y": 459.13358420311874
+          },
+          "nodeIndex": "TipodePagos",
+          "nodeLineageTag": "f731bddd-a502-4cf8-8d1b-725ebb462b32",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 1223.8597068691997,
+            "y": 433.93463428265864
+          },
+          "nodeIndex": "Medidas",
+          "nodeLineageTag": "c5c45927-02c9-4f5b-bb71-e61639631c67",
+          "size": {
+            "height": 259.84254161554372,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 1507.8597068691997,
+            "y": 385.93463428265864
+          },
+          "nodeIndex": "EmpleadosSeleccionados",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 1761.5881340374033,
+            "y": 401.63100538062719
+          },
+          "nodeIndex": "EmpleadosMalSeleccionados",
+          "nodeLineageTag": "8da777ca-4c3c-4b65-9361-87f47e1b2915",
+          "size": {
+            "height": 297.54173468023237,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 679.53229962678017
+          },
+          "nodeIndex": "Genero",
+          "nodeLineageTag": "8e9edd6f-dcfb-43af-8107-0da3a3ca34e6",
+          "size": {
+            "height": 148.63649190757826,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 540.84615563459761,
+            "y": 826.86926856531727
+          },
+          "nodeIndex": "Contratacion",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2045.5881340374033,
+            "y": 385.93463428265864
+          },
+          "nodeIndex": "CalendarioContrataciones",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas las tablas",
+      "zoomValue": 87.779868950070579,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas las tablas",
+  "defaultDiagram": "Todas las tablas"
+}
